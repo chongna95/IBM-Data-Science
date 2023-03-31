@@ -14,6 +14,8 @@
 ## [Course 9: Machine Learning with Python](https://github.com/chongna95/IBM-Data-Science/tree/main/Course%209:%20Machine%20Learning%20with%20Python)
 ## [Course 10: Applied Data Science Capstone](https://github.com/chongna95/Applied-Data-Science-Capstone)
 
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
