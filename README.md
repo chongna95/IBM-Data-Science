@@ -13,3 +13,7 @@
    ### -[Practice Assignment: Creating a Dashboard](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFYwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL01vZHVsZSUyMDUvNS4xX1ByYWN0aWNlTGFiLm1kIiwidG9vbF90eXBlIjoidGhlaWEiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTY3ODA5OTk5NX0.65_nfLVLvRaRjAcLQOTWZ2tN8oXgQQnjwKL9jk7kWko)
 ## [Course 9: Machine Learning with Python](https://github.com/chongna95/IBM-Data-Science/tree/main/Course%209:%20Machine%20Learning%20with%20Python)
 ## [Course 10: Applied Data Science Capstone](https://github.com/chongna95/Applied-Data-Science-Capstone)
+
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
