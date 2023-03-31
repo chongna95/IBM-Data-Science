@@ -1,4 +1,5 @@
 # IBM-Data-Science
+
 ## Course 1: What is Data Science?
 ## Course 2: Tools for Data Science
 ## [Course 3: Data Science Methodology](https://github.com/chongna95/IBM-Data-Science/tree/main/Course%203:%20Data%20Science%20Methodology)
@@ -14,8 +15,4 @@
 ## [Course 9: Machine Learning with Python](https://github.com/chongna95/IBM-Data-Science/tree/main/Course%209:%20Machine%20Learning%20with%20Python)
 ## [Course 10: Applied Data Science Capstone](https://github.com/chongna95/Applied-Data-Science-Capstone)
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
+
